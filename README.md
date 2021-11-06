@@ -3,7 +3,7 @@
 
 ### Just a guy who likes to code :)
 
-- 🎨 I’m currently working on my website
+- 🎨 Just finished my website, check it out!
 - ✌ I’m learning python and javascript
 - 😐 I’m looking for help with python
 - 👨 Pronouns: he / him
