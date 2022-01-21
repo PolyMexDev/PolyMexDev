@@ -4,16 +4,14 @@
 ### Just a guy who likes to code :)
 
 - 🎨 Just finished my website, check it out!
-- ✌ I’m learning python and javascript
+- ✌ I’m learning sass css and javascript frameworks
 - 😐 I’m looking for help with python
 - 👨 Pronouns: he / him
 
 
 ### Languages I Know
-
-- 🐍 Python (half)
-- 🔆 HTML/CSS
-- 🎮 Javascript( a little)
-
+- 🔆 HTML/SCSS
+- 🎮 Javascript
+- ❤️ React
 ---
 
